@@ -8,7 +8,7 @@ there are definitely some properties you should add!*/
     body {
        width: auto;
        height: 100%;
-       background-image: url(__Seattle_night-wow.png);
+       background-image: url(seattle_night-wow.png);
        background-repeat: no-repeat;
        background-position: center;
        background-attachment: fixed;
