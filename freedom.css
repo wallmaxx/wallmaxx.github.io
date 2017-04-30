@@ -1,0 +1,103 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: auto;
+       height: 100%;
+       background-image: url(__Seattle_night-wow.png);
+       background-repeat: no-repeat;
+       background-position: center;
+       background-attachment: fixed;
+       /*background-size: cover;*/
+    }
+
+    header {
+        background-color: #00BFFF;
+        padding: 4px;
+        border: 2px solid #000000;
+        margin-bottom: 50;
+        font-size: 30;
+        display: block;
+        text-align: center;
+        font-family: "Arial", Arial, sans-serif;
+    }
+
+    nav {
+        background-color: #000000;
+        float: left;
+        width: 100%;
+    }
+    nav ul {
+        padding: 2;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+        color: white;
+        font-size: 30;
+        font-family: "Arial", Arial, sans-serif;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 100%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+      }
+    p {
+        font-size: 22;
+        font-family: "Arial", Arial, sans-serif;
+        color: blue;
+    }
+    h2 {
+        font-size: 30;
+        font-family: "Arial", Arial, sans-serif;
+        padding: 0;
+    }
+    #main-article {
+        font-size: 30;
+        font-family: "Arial", Arial, sans-serif;
+        color: red;
+    }
+    img {
+     height: auto;
+     width: 800;
+     padding: 1;
+    }
+    .my-footer {
+      font-size: 10;
+      font-family: "Arial", Arial, sans-serif;
+      text-align: center;
+      padding-bottom: 10;
+    }
+    footer {
+        width: 800px;
+        background-color:;
+        color: black;
+        clear: both;
+        display: block;
+
+    }

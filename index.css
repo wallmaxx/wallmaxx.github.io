@@ -1,0 +1,99 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      width: 800px;
+      height: 100%;
+      background-color: #666666;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+    }
+
+    header {
+      background: url(http://hdimages.org/wp-content/uploads/2017/03/stock-image4.jpg);
+background-size: auto;
+background-position: center;
+        padding: 5px;
+        margin: 0px;
+        text-align: center;
+    }
+    nav {
+        width: 100%;
+        background: url(http://hdimages.org/wp-content/uploads/2017/03/stock-image4.jpg);
+        background-size: auto;
+        background-position: right 50% bottom 30%;
+        float: left;
+        font-size: 20px;
+        font-family: fantasy;
+        color: #000000;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: black;
+    }
+    article {
+      width: 100%;
+      text-align: center;
+      color: white;
+      background: url(http://www.exponent.com/~/media/practices-capabilities-and-industries/thermal/explosions/explosions_1250x450pxrecovered.jpg);
+      background-position: 50% 40%;
+    }
+    article h3 {
+      background-color: #666666;
+      font-size: 32px;
+    }
+    article h1 {
+      font-size: 35px;
+      color: black;
+      font-weight: bolder;
+    }
+    img {
+      display: inline-block;
+      background-color: white;
+      padding: 3px;
+    }
+    header h2 {
+      display: inline-block;
+      background-color: rgba(0,0,0,);
+      padding: 25px;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
